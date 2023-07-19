@@ -1,7 +1,7 @@
 # ONT-Capacity-Visualization
-Wrangling multiple csv files from zipped folders
-Title: Visualizing capacity utilization of ONTs
-Objective: To graph the capacity utilization on every ONT
+
+Title: Visualizing capacity utilization of ONTs.
+Objective: To graph the capacity utilization on every ONT.
 The utilization of ONTs(access point in the GPON technology) can not be graphed using cacti graphing tool. After consultations with the vendor, the possible way to achieve this is to use the data collected by the Statistics and Data Collector (SDC).
 The collected data is stored in CSV files. 
 Every row represents an ONT
